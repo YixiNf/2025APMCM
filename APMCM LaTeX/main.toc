@@ -1,0 +1,138 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {subsection}{\numberline {1\,.\,1}Restatement of Problem}{1}{}%
+\contentsline {subsubsection}{\numberline {1\,.\,1\,.\,1}Problem 1}{1}{}%
+\contentsline {subsubsection}{\numberline {1\,.\,1\,.\,2}Problem 2}{1}{}%
+\contentsline {subsubsection}{\numberline {1\,.\,1\,.\,3}Problem 3}{1}{}%
+\contentsline {subsubsection}{\numberline {1\,.\,1\,.\,4}Problem 4}{1}{}%
+\contentsline {subsubsection}{\numberline {1\,.\,1\,.\,5}Problem 5}{2}{}%
+\contentsline {subsection}{\numberline {1\,.\,2}Our Work}{2}{}%
+\contentsline {subsubsection}{\numberline {1\,.\,2\,.\,1}Analysis of Problem 1}{2}{}%
+\contentsline {subsubsection}{\numberline {1\,.\,2\,.\,2}Analysis of Problem 2}{2}{}%
+\contentsline {subsubsection}{\numberline {1\,.\,2\,.\,3}Analysis of Problem 3}{2}{}%
+\contentsline {subsubsection}{\numberline {1\,.\,2\,.\,4}Analysis of Problem 4}{2}{}%
+\contentsline {subsubsection}{\numberline {1\,.\,2\,.\,5}Analysis of Problem 5}{3}{}%
+\contentsline {section}{\numberline {2}Model Hypothesis}{3}{}%
+\contentsline {subsection}{\numberline {2\,.\,1}Assumption 1}{3}{}%
+\contentsline {subsection}{\numberline {2\,.\,2}Assumption 2}{3}{}%
+\contentsline {subsection}{\numberline {2\,.\,3}Assumption 3}{3}{}%
+\contentsline {subsection}{\numberline {2\,.\,4}Assumption 4}{3}{}%
+\contentsline {subsection}{\numberline {2\,.\,5}Assumption 5}{4}{}%
+\contentsline {section}{\numberline {3}Notations}{4}{}%
+\contentsline {section}{\numberline {4}Models and Solutions for Problem 1}{6}{}%
+\contentsline {subsection}{\numberline {4\,.\,1}Current Soybean Trade Pattern and Modeling Strategy}{6}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,1\,.\,1}Long-Term Trade Pattern: A Stable Structure Dominated by Brazil}{6}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,1\,.\,2}Pattern Mutation Under the 2018 Tariff Shock}{6}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,1\,.\,3}Pattern Readjustment After the 2025 Tariff Adjustment}{7}{}%
+\contentsline {subsection}{\numberline {4\,.\,2}Data, Model, and Solution}{8}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,1}Data Sources}{8}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,2}Data Preprocessing}{8}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,3}Unit Unification}{8}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,4}Missing Value Handling}{8}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,5}Outlier Detection and Correction}{9}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,6}Key Tariff Data Completion}{9}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,7}Feature Standardization}{9}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,8}Model Selection Basis}{10}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,9}Model Overview}{10}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,10}Dataset Division}{10}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,2\,.\,11}Training Setup}{10}{}%
+\contentsline {subsection}{\numberline {4\,.\,3}Results and Analysis}{11}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,3\,.\,1}LSTM Model Results and Analysis}{11}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,3\,.\,2}Transformer Model Results and Analysis}{12}{}%
+\contentsline {subsubsection}{\numberline {4\,.\,3\,.\,3}Model Summary}{12}{}%
+\contentsline {section}{\numberline {5}Models and Solutions for Problem 2}{12}{}%
+\contentsline {subsection}{\numberline {5\,.\,1}Data Collection and Preprocessing}{12}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,1\,.\,1}Data Sources}{12}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,1\,.\,2}Data Scope and Frequency}{13}{}%
+\contentsline {subsection}{\numberline {5\,.\,2}Data Preprocessing}{15}{}%
+\contentsline {subsection}{\numberline {5\,.\,3}Current Position of Japanese Automobiles in the U.S. Market}{15}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,3\,.\,1}Market Share and Trend}{15}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,3\,.\,2}Sales Structure and Competitive Advantages}{16}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,3\,.\,3}Supply Chain Layout (Direct Export + Local Production + Third-Country Manufacturing)}{16}{}%
+\contentsline {subsection}{\numberline {5\,.\,4}Feature Engineering}{17}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,4\,.\,1}Specific Feature Extraction}{17}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,4\,.\,2}Feature Optimization}{18}{}%
+\contentsline {subsection}{\numberline {5\,.\,5}Model Construction and Implementation}{19}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,5\,.\,1}Model Selection Basis}{19}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,5\,.\,2}Traditional Econometric Models}{20}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,5\,.\,3}Machine Learning Model}{21}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,5\,.\,4}Ensemble Learning}{21}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,5\,.\,5}Scenario Simulation Method}{22}{}%
+\contentsline {subsection}{\numberline {5\,.\,6}Results and Analysis}{22}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,6\,.\,1}Model Evaluation and Performance}{22}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,6\,.\,2}Impact of U.S. Tariff Adjustments}{24}{}%
+\contentsline {subsubsection}{\numberline {5\,.\,6\,.\,3}Scenario Simulation Results}{25}{}%
+\contentsline {section}{\numberline {6}Models and Solutions for Problem 3}{26}{}%
+\contentsline {subsection}{\numberline {6\,.\,1}Current Situation of U.S.-China Semiconductor Trade}{26}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,1\,.\,1}Characteristics of Total Trade Volume Change (2018-2025)}{26}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,1\,.\,2}Characteristics of Trade Structure Differentiation (High/Mid/Low-end Chips)}{26}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,1\,.\,3}Trade Evolution Law Under Policy Shocks}{27}{}%
+\contentsline {subsection}{\numberline {6\,.\,2}Indicator System Construction}{28}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,2\,.\,1}Explained Variables: Trade Characteristic Indicators}{28}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,2\,.\,2}Core Explanatory Variables: Policy Shock Indicators}{29}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,2\,.\,3}Control Variables: Economic and Time-Series Feature Indicators}{30}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,2\,.\,4}Security Assessment Indicators: Semiconductor-Specific Indicators}{30}{}%
+\contentsline {subsection}{\numberline {6\,.\,3}Data Collection}{30}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,3\,.\,1}Data Sources and Scope}{31}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,3\,.\,2}Semiconductor Product Classification Refinement}{31}{}%
+\contentsline {subsection}{\numberline {6\,.\,4}Data Preprocessing}{31}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,4\,.\,1}Missing Value and Outlier Handling}{31}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,4\,.\,2}Experimental Data Image Correlation and Calibration}{31}{}%
+\contentsline {subsection}{\numberline {6\,.\,5}Model Construction and Implementation}{32}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,5\,.\,1}Baseline Econometric Model (ElasticNet)}{32}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,5\,.\,2}Dynamic Response Model (Huber)}{32}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,5\,.\,3}Integrated Model (ElasticNet+Huber+GBDT)}{33}{}%
+\contentsline {subsection}{\numberline {6\,.\,6}Results and Analysis}{33}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,6\,.\,1}Model Performance Comparison}{33}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,6\,.\,2}Feature Importance Analysis}{33}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,6\,.\,3}Quantitative Policy Effects}{33}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,6\,.\,4}Structural Differentiation Results}{33}{}%
+\contentsline {subsubsection}{\numberline {6\,.\,6\,.\,5}Core Conclusions }{36}{}%
+\contentsline {section}{\numberline {7}Models and Solutions for Problem 4}{36}{}%
+\contentsline {subsection}{\numberline {7\,.\,1}Current Situation of U.S. Tariff Revenue and Import Trade}{36}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,1\,.\,1}Core Characteristics of the Baseline Period (2020-2024)}{36}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,1\,.\,2}Background of the 2025 Policy Shock}{36}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,1\,.\,3}Preliminary Observation of Time-Series Correlation Between Tariff Revenue and Import Value}{37}{}%
+\contentsline {subsection}{\numberline {7\,.\,2}Evaluation Indicators}{37}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,2\,.\,1}Explained Variables: Fiscal Revenue Indicators}{37}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,2\,.\,2}Core Explanatory Variables: Policy Shock and Trade Indicators}{38}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,2\,.\,3}Control Variables: Time-Series and Economic Feature Indicators}{38}{}%
+\contentsline {subsection}{\numberline {7\,.\,3}Data Collection}{38}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,3\,.\,1}Data Sources and Scope (Tabular Form)}{38}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,3\,.\,2}Data Classification}{38}{}%
+\contentsline {subsection}{\numberline {7\,.\,4}Data Preprocessing}{38}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,4\,.\,1}Missing Value and Outlier Handling}{38}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,4\,.\,2}Data Standardization and Time-Series Calibration}{39}{}%
+\contentsline {subsection}{\numberline {7\,.\,5}Model Construction and Implementation}{39}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,5\,.\,1}Base Model Selection}{39}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,5\,.\,2}Ensemble Scheme}{39}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,5\,.\,3}Model Training and Validation}{39}{}%
+\contentsline {subsection}{\numberline {7\,.\,6}Results and Analysis}{40}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,6\,.\,1}Model Summary}{40}{}%
+\contentsline {subsubsection}{\numberline {7\,.\,6\,.\,2}Core Conclusions}{40}{}%
+\contentsline {section}{\numberline {8}Models and Solutions for Problem 5}{41}{}%
+\contentsline {subsection}{\numberline {8\,.\,1}Policy Background and Economic Status Analysis}{41}{}%
+\contentsline {subsubsection}{\numberline {8\,.\,1\,.\,1}Background of Policy Shock}{41}{}%
+\contentsline {subsubsection}{\numberline {8\,.\,1\,.\,2}Baseline Characteristics of the U.S. Economy (2024)}{41}{}%
+\contentsline {subsection}{\numberline {8\,.\,2}Evaluation Indicator System}{41}{}%
+\contentsline {subsection}{\numberline {8\,.\,3}Data Collection and Preprocessing}{42}{}%
+\contentsline {subsubsection}{\numberline {8\,.\,3\,.\,1}Data Sources and Scope}{42}{}%
+\contentsline {subsubsection}{\numberline {8\,.\,3\,.\,2}Data Preprocessing}{42}{}%
+\contentsline {subsection}{\numberline {8\,.\,4}Model Construction and Implementation}{43}{}%
+\contentsline {subsubsection}{\numberline {8\,.\,4\,.\,1}Modular Design}{43}{}%
+\contentsline {paragraph}{(1) Trade Flow Calculation Model}{43}{}%
+\contentsline {paragraph}{(2) Price Transmission \& Consumption Crowding-Out Model}{43}{}%
+\contentsline {paragraph}{(3) Strategic Goods Cost Spillover Model}{44}{}%
+\contentsline {paragraph}{(4) Macroeconomic Multiplier Model}{44}{}%
+\contentsline {subsubsection}{\numberline {8\,.\,4\,.\,2}Model Validation and Robustness}{44}{}%
+\contentsline {subsubsection}{\numberline {8\,.\,4\,.\,3}Scenario Design}{44}{}%
+\contentsline {subsection}{\numberline {8\,.\,5}Results and Analysis}{45}{}%
+\contentsline {subsubsection}{\numberline {8\,.\,5\,.\,1}Trade Flow and Deficit Change Analysis}{45}{}%
+\contentsline {subsubsection}{\numberline {8\,.\,5\,.\,2}Macroeconomic and Employment Effect Analysis}{45}{}%
+\contentsline {subsubsection}{\numberline {8\,.\,5\,.\,3}Comprehensive Impact Summary}{45}{}%
+\contentsline {subsubsection}{\numberline {8\,.\,5\,.\,4}Core Conclusions}{47}{}%
+\contentsline {section}{\numberline {9}Conclusions}{47}{}%
+\contentsline {subsection}{\numberline {9\,.\,1}Key Findings}{47}{}%
+\contentsline {subsection}{\numberline {9\,.\,2}Methodological Framework and Applications}{47}{}%
+\contentsline {section}{\numberline {10}Future Work}{47}{}%
+\contentsline {section}{\numberline {11}References}{48}{}%
+\contentsfinish 
