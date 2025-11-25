@@ -1,0 +1,99 @@
+HTS_Number,Trade_Description,Brief_Description,HTS8,Match_Type
+1,LIVE ANIMALS,"Livers of bovine animals, frozen",2062200.0,Partial
+2,MEAT AND EDIBLE MEAT OFFAL,"Meat and edible meat offal of primates, fresh, chilled or frozen",2083000.0,Partial
+3,"FISH AND CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES","Extracts and juices of meat, fish, crustaceans, molluscs or other aquatic invertebrates, other than clam juice",16030090.0,Partial
+4,"DAIRY PRODUCE; BIRDS' EGGS; NATURAL HONEY; EDIBLE PRODUCTS OF ANIMAL ORIGIN, NESOI",Unknown,,None
+5,"PRODUCTS OF ANIMAL ORIGIN, NESOI","Edible products of animal origin, nesi",4100000.0,Partial
+6,"LIVE TREES AND OTHER PLANTS; BULBS, ROOTS AND THE LIKE; CUT FLOWERS AND ORNAMENTAL FOLIAGE",Unknown,,None
+7,EDIBLE VEGETABLES AND CERTAIN ROOTS AND TUBERS,Unknown,,None
+8,EDIBLE FRUIT AND NUTS; PEEL OF CITRUS FRUIT OR MELONS,"Fruit nesi, and other edible parts of plants nesi, other than pulp and excluding mixtures, otherwise prepared or preserved, nesi",20089990.0,Partial
+9,"COFFEE, TEA, MATE AND SPICES",Unknown,,None
+10,CEREALS,Pellets of cereals,11032000.0,Partial
+11,MILLING INDUSTRY PRODUCTS; MALT; STARCHES; INULIN; WHEAT GLUTEN,Unknown,,None
+12,"OIL SEEDS AND OLEAGINOUS FRUITS; MISCELLANEOUS GRAINS, SEEDS AND FRUITS; INDUSTRIAL OR MEDICINAL PLANTS; STRAW AND FODDER","Other oil seeds and oleaginous fruits whether or not broken, incl niger seeds, hemp seeds and seeds nesoi",12079903.0,Partial
+13,LAC; GUMS; RESINS AND OTHER VEGETABLE SAPS AND EXTRACTS,Unknown,,None
+14,"VEGETABLE PLAITING MATERIALS AND VEGETABLE PRODUCTS, NESOI","Products nesoi of plaiting materials (not vegetable), bound together in parallel strands or woven, in sheet form, nesoi",46019990.0,Partial
+15,ANIMAL OR VEGETABLE FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE FATS; ANIMAL OR VEGETABLE WAXES,Animal or vegetable fertilizers; fertilizers produced by the mixing or chemical treatment of animal or vegetable products,31010000.0,Partial
+16,"EDIBLE PREPARATIONS OF MEAT, FISH, CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATES",Unknown,,None
+17,SUGARS AND SUGAR CONFECTIONERY,"Sugars and sugar syrups, and articles containing sugar, neosi",17029090.0,Partial
+18,COCOA AND COCOA PREPARATIONS,"Chocolate and other cocoa preparations, in blocks, slabs or bars, filled, not in bulk",18063100.0,Partial
+19,"PREPARATIONS OF CEREALS, FLOUR, STARCH OR MILK; BAKERS' WARES",Unknown,,None
+20,"PREPARATIONS OF VEGETABLES, FRUIT, NUTS, OR OTHER PARTS OF PLANTS",Unknown,,None
+21,MISCELLANEOUS EDIBLE PREPARATIONS,Unknown,,None
+22,"BEVERAGES, SPIRITS AND VINEGAR",Unknown,,None
+23,RESIDUES AND WASTE FROM THE FOOD INDUSTRIES; PREPARED ANIMAL FEED,Ash and residues from the incineraction of municipal waste,26211000.0,Partial
+24,TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES,Unknown,,None
+25,"SALT; SULFUR; EARTHS AND STONE; PLASTERING MATERIALS, LIME AND CEMENT",Unknown,,None
+26,"ORES, SLAG AND ASH",Unknown,,None
+27,"MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES","Machinery for agglomerating, shaping or molding solid mineral fuels, or other mineral products; machines for forming sand foundry molds",84748000.0,Partial
+28,"INORGANIC CHEMICALS; ORGANIC OR INORGANIC COMPOUNDS OF PRECIOUS METALS, OF RARE-EARTH METALS, OF RADIOACTIVE ELEMENTS OR OF ISOTOPES",Unknown,,None
+29,ORGANIC CHEMICALS,Unknown,,None
+30,PHARMACEUTICAL PRODUCTS,"Ambergris, castoreum, civet, and musk used in the preparation of pharmaceutical products",5100020.0,Partial
+31,FERTILIZERS,"Mineral or chemical fertilizers, phosphatic",31039001.0,Partial
+32,"TANNING OR DYEING EXTRACTS; TANNINS AND DERIVATIVES; DYES, PIGMENTS AND OTHER COLORING MATTER; PAINTS AND VARNISHES; PUTTY AND OTHER MASTICS; INKS",Unknown,,None
+33,"ESSENTIAL OILS AND RESINOIDS; PERFUMERY, COSMETIC OR TOILET PREPARATIONS",Unknown,,None
+34,"SOAP ETC.; LUBRICATING PRODUCTS; WAXES, POLISHING OR SCOURING PRODUCTS; CANDLES ETC., MODELING PASTES; DENTAL WAXES AND DENTAL PLASTER PREPARATIONS",Unknown,,None
+35,ALBUMINOIDAL SUBSTANCES; MODIFIED STARCHES; GLUES; ENZYMES,Unknown,,None
+36,EXPLOSIVES; PYROTECHNIC PRODUCTS; MATCHES; PYROPHORIC ALLOYS; CERTAIN COMBUSTIBLE PREPARATIONS,Unknown,,None
+37,PHOTOGRAPHIC OR CINEMATOGRAPHIC GOODS,"Parts and accessories for photographic cameras, not cinematographic",90069100.0,Partial
+38,MISCELLANEOUS CHEMICAL PRODUCTS,Unknown,,None
+39,PLASTICS AND ARTICLES THEREOF,"Shutters and similar articles and parts thereof, nesoi, of plastics",39253050.0,Partial
+40,RUBBER AND ARTICLES THEREOF,"Rods, tubes, profile shapes, discs, rings, and similar articles, of synthetic unvulcanized rubber",40069050.0,Partial
+41,RAW HIDES AND SKINS (OTHER THAN FURSKINS) AND LEATHER,"Raw equine hides and skins (other than whole), pretanned but further prepared",41019070.0,Partial
+42,"ARTICLES OF LEATHER; SADDLERY AND HARNESS; TRAVEL GOODS, HANDBAGS AND SIMILAR CONTAINERS; ARTICLES  OF GUT (OTHER THAN SILKWORM GUT)",Unknown,,None
+43,FURSKINS AND ARTIFICIAL FUR; MANUFACTURES THEREOF,Unknown,,None
+44,WOOD AND ARTICLES OF WOOD; WOOD CHARCOAL,"Basketwork and other articles, neosi, of willow or wood",46021945.0,Partial
+45,CORK AND ARTICLES OF CORK,"Agglomerated cork and articles of cork, nesoi",45049000.0,Partial
+46,"MANUFACTURES OF STRAW, ESPARTO OR OTHER PLAITING MATERIALS; BASKETWARE AND WICKERWORK",Unknown,,None
+47,PULP OF WOOD OR OTHER FIBROUS CELLULOSIC MATERIAL; RECOVERED (WASTE AND SCRAP) PAPER AND PAPERBOARD,"Chemical woodpulp, soda or sulfate, other than dissolving grades, of unbleached coniferous wood",47031100.0,Partial
+48,"PAPER AND PAPERBOARD; ARTICLES OF PAPER PULP, PAPER OR PAPERBOARD",Unknown,,None
+49,"PRINTED BOOKS, NEWSPAPERS, PICTURES AND OTHER PRINTED PRODUCTS; MANUSCRIPTS, TYPESCRIPTS AND PLANS",Unknown,,None
+50,"SILK, INCLUDING YARNS AND WOVEN FABRICS THEREOF",Unknown,,None
+51,"WOOL AND FINE OR COARSE ANIMAL HAIR, INCLUDING YARNS AND WOVEN FABRICS THEREOF; HORSEHAIR YARN AND WOVEN FABRIC","Tapestry and upholstery fabrics of combed wool/fine animal hair, containing 85% or more wool or hair, weight not over 140 g/m2",51121110.0,Partial
+52,"COTTON, INCLUDING YARNS AND WOVEN FABRICS THEREOF","3- or 4-thread twill fabrics of cotton, including cross twill, 85% or more cotton by weight, not over 200 g/m2, of yarns of different colors",52084300.0,Partial
+53,VEGETABLE TEXTILE FIBERS NESOI; YARNS AND WOVEN FABRICS OF VEGETABLE TEXTILE FIBERS NESOI AND PAPER,"Woven fabrics of other vegetable textile fibers, nesoi",53110040.0,Partial
+54,"MANMADE FILAMENTS, INCLUDING YARNS AND WOVEN FABRICS THEREOF",Unknown,,None
+55,"MANMADE STAPLE FIBERS, INCLUDING YARNS AND WOVEN FABRICS THEREOF",Unknown,,None
+56,"WADDING, FELT AND NONWOVENS; SPECIAL YARNS; TWINE, CORDAGE, ROPES AND CABLES AND ARTICLES THEREOF",Unknown,,None
+57,CARPETS AND OTHER TEXTILE FLOOR COVERINGS,"Carpets and other textile floor coverings, whether or not made up, nesoi",57050020.0,Partial
+58,SPECIAL WOVEN FABRICS; TUFTED TEXTILE FABRICS; LACE; TAPESTRIES; TRIMMINGS; EMBROIDERY,Unknown,,None
+59,"IMPREGNATED, COATED, COVERED OR LAMINATED TEXTILE FABRICS; TEXTILE ARTICLES SUITABLE FOR INDUSTRIAL USE","Textile fabrics of cotton, impregnated, coated, covered or laminated with polyvinyl chloride",59031010.0,Partial
+60,KNITTED OR CROCHETED FABRICS,Knitted or crocheted looped pile fabrics of cotton,60012100.0,Partial
+61,"ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED","Articles of apparel and clothing accessories, of furskins",43031000.0,Partial
+62,"ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, NOT KNITTED OR CROCHETED","Articles of apparel and clothing accessories, of furskins",43031000.0,Partial
+63,MADE-UP TEXTILE ARTICLES NESOI; NEEDLECRAFT SETS; WORN CLOTHING AND WORN TEXTILE ARTICLES; RAGS,"National flags and other made-up articles of textile materials, nesoi",63079098.0,Partial
+64,"FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES",Unknown,,None
+65,HEADGEAR AND PARTS THEREOF,Unknown,,None
+66,"UMBRELLAS, SUN UMBRELLAS, WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS AND PARTS THEREOF",Unknown,,None
+67,PREPARED FEATHERS AND DOWN AND ARTICLES THEREOF; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR,Unknown,,None
+68,"ARTICLES OF STONE, PLASTER, CEMENT, ASBESTOS, MICA OR SIMILAR MATERIALS","Articles of cement (other than tiles, flagstones, bricks and similar arts.), of concrete or artificial stone, nesoi",68109900.0,Partial
+69,CERAMIC PRODUCTS,"Uranium depleted in U235, thorium; alloys, dispersions, ceramic products and mixtures of these products and their compounds",28443050.0,Partial
+70,GLASS AND GLASSWARE,"Glassware for table or kitchen purposes (o/than drinking glasses), of pressed and toughened glass, nesoi",70134910.0,Partial
+71,"NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMIPRECIOUS STONES, PRECIOUS METALS; PRECIOUS METAL CLAD METALS, ARTICLES THEREOF; IMITATION JEWELRY; COIN",Unknown,,None
+72,IRON AND STEEL,Iron and nonalloy steel ingots,72061000.0,Partial
+73,ARTICLES OF IRON OR STEEL,"Iron or steel, articles of wire, nesoi",73262000.0,Partial
+74,COPPER AND ARTICLES THEREOF,"Copper, screw hooks and other threaded articles, nesoi",74153900.0,Partial
+75,NICKEL AND ARTICLES THEREOF,Unknown,,None
+76,ALUMINUM AND ARTICLES THEREOF,"Aluminum, table, kitchen or other household articles (o/than cooking or kitchen ware) and parts thereof",76151091.0,Partial
+78,LEAD AND ARTICLES THEREOF,Unknown,,None
+79,ZINC AND ARTICLES THEREOF,"Iron or steel, aluminum, or zinc, mountings, fittings & similar articles nesoi, and base metal parts thereof",83024960.0,Partial
+80,TIN AND ARTICLES THEREOF,"Unhardened gelatin, worked and articles thereof",96020010.0,Partial
+81,BASE METALS NESOI; CERMETS; ARTICLES THEREOF,Unknown,,None
+82,"TOOLS, IMPLEMENTS, CUTLERY, SPOONS AND FORKS, OF BASE METAL; PARTS THEREOF OF BASE METAL",Unknown,,None
+83,MISCELLANEOUS ARTICLES OF BASE METAL,Unknown,,None
+84,"NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF",Unknown,,None
+85,"ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION RECORDERS AND REPRODUCERS, PARTS AND ACCESSORIES","Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features and other parts nesi",84879000.0,Partial
+86,"RAILWAY OR TRAMWAY LOCOMOTIVES, ROLLING STOCK, TRACK FIXTURES AND FITTINGS, AND PARTS THEREOF; MECHANICAL ETC. TRAFFIC SIGNAL EQUIPMENT OF ALL KINDS","Railway or tramway track fixtures and fittings; mechanical signaling, safety or traffic control equipment of all kinds nesoi; parts thereof",86080000.0,Partial
+87,"VEHICLES, OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF","Motor vehicles, w/other than diesel engine, for transport of 10 but not more than 15 persons",87029060.0,Partial
+88,"AIRCRAFT, SPACECRAFT, AND PARTS THEREOF",Unknown,,None
+89,"SHIPS, BOATS AND FLOATING STRUCTURES","Vessels, designed for the transport of persons, cruise ships, excursion boats and similar vessels; ferry boats of all kinds",89011000.0,Partial
+90,"OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; PARTS AND ACCESSORIES THEREOF",Unknown,,None
+91,CLOCKS AND WATCHES AND PARTS THEREOF,"Dials for watches and clocks, exceeding 50 mm in width",91143080.0,Partial
+92,MUSICAL INSTRUMENTS; PARTS AND ACCESSORIES THEREOF,Unknown,,None
+93,ARMS AND AMMUNITION; PARTS AND ACCESSORIES THEREOF,Unknown,,None
+94,"FURNITURE; BEDDING, CUSHIONS ETC.; LAMPS AND LIGHTING FITTINGS NESOI; ILLUMINATED SIGNS, NAMEPLATES AND THE LIKE; PREFABRICATED BUILDINGS",Unknown,,None
+95,"TOYS, GAMES AND SPORTS EQUIPMENT; PARTS AND ACCESSORIES THEREOF",Unknown,,None
+96,MISCELLANEOUS MANUFACTURED ARTICLES,Unknown,,None
+97,"WORKS OF ART, COLLECTORS' PIECES AND ANTIQUES",Unknown,,None
+98,"SPECIAL CLASSIFICATION PROVISIONS, NESOI",Unknown,,None
+99,"SPECIAL IMPORT REPORTING PROVISIONS, NESOI",Unknown,,None
