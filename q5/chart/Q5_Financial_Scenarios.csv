@@ -1,0 +1,4 @@
+﻿Scenario,USD Index Change (proxy) (%),10Y UST Yield Change (bps),Risk Asset Proxy Change (%),Crypto Proxy Change (%)
+Pessimistic,0.03,17.5,0.99,2.07
+Baseline,0.2,16.3,0.53,1.1
+Optimistic,0.16,16.5,0.62,1.29

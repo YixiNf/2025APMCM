@@ -1,0 +1,7 @@
+﻿Parameter,Baseline Value,Sensitivity Range,Impact Field
+Price Sensitivity (eta),0.4,0.2-0.6,GDP and Employment
+Marginal Consumption (MPC),0.78,0.70-0.85,Consumption Decline Magnitude
+Rare Earth Price Sensitivity,2.0,1.0-3.0,Cost Increase Magnitude
+Domestic Substitution Rate,0.6440249161474944,0.3-0.7,Job Creation
+Trade Multiplier,1.4,1.2-1.8,GDP Multiplier Effect
+Consumption Multiplier,1.8,1.5-2.5,GDP Multiplier Effect
